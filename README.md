@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently working on web design and development.
+ 🔭 I’m currently working on Web Design and Development.
 
-🌱 I’m currently learning JavaScript.
+🌱 I’m currently learning Mobile app development with React Native.
 
 💬 Ask me about programming and logics.
 
